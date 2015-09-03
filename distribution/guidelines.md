@@ -6,6 +6,7 @@ The title will be capitalised, initial capitals on first word and on all signifi
 
 ### Description
 
+(coming soon)
 
 ### Cover
 
@@ -13,10 +14,15 @@ Amazon and Apple are recommending to have a JPEG cover of at least **2560 pixels
 
 ### Readme
 
+(coming soon)
 
 ### Subjects
 
 Highly important to select the BISAC code(s) most suitable for the category of your book.
+
+### Authors informations
+
+Author and collaborators should have specified a valid name and headline.
 
 ### External Links
 
