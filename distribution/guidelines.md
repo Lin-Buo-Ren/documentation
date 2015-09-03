@@ -7,6 +7,10 @@ The title will be capitalised, initial capitals on first word and on all signifi
 ### Description
 
 
+### Cover
+
+Amazon and Apple are recommending to have a JPEG cover of at least **2560 pixels** on the longest side and **1600 pixels** on the shortest side, with **300 dpi** to ensure image clarity on Kindle HDX and iPad devices. The image file size must be less than **5MB**. 
+
 ### Readme
 
 
