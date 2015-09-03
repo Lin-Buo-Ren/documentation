@@ -14,6 +14,10 @@ Amazon and Apple are recommending to have a JPEG cover of at least **2560 pixels
 ### Readme
 
 
+### Subjects
+
+Highly important to select the BISAC code(s) most suitable for the category of your book.
+
 ### External Links
 
 Review the links in your book as some retailers object to links which lead to alternative ebook retailers.
