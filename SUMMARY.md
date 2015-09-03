@@ -39,5 +39,5 @@
    * [Convert an user](platform/organizations/convert.md)
    * [Transferring ownership](platform/organizations/ownership.md)
 * Distribution
-   * Guidelines
+   * [Guidelines](distribution/guidelines.md)
 
