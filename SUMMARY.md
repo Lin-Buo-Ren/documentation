@@ -38,4 +38,5 @@
    * [Differences with users](platform/organizations/differences.md)
    * [Convert an user](platform/organizations/convert.md)
    * [Transferring ownership](platform/organizations/ownership.md)
+* Distribution
 
